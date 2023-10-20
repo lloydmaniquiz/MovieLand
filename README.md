@@ -1,3 +1,7 @@
+MovieLand
+
+Search Movies worldwide, used API and React JS to create this.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
